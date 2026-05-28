@@ -1,6 +1,6 @@
 # CA1: Basic Switch and Gate Structures
 
-This folder contains the first Computer Assignment for **Digital Systems I**, Spring 1404.
+This folder contains the first Computer Assignment for **Digital Systems I**, Spring 2025.
 
 ## Objective
 Design and simulation of logic gates (NOR and OAI) at switch-level, gate-level, and dataflow abstraction levels using **SystemVerilog** and **ModelSim** to analyze propagation delays and functional behavior.
