@@ -1,4 +1,4 @@
-This folder contains the second Computer Assignment for **Digital Systems I**, Spring 1404.
+This folder contains the second Computer Assignment for **Digital Systems I**, Spring 2025.
 
 ## Objective
 The goal was to design and simulate a 2-bit digital comparator and cascade it to implement a 4-bit comparator. We utilized **SystemVerilog** and **ModelSim** to analyze propagation delays based on back-annotated timing parameters from transistor-level circuits.
